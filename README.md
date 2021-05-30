@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Academic Background
+- B.A. in English (Theoretical Linguistics)
+  - Generative Syntax
+  - Generative Lexicon
+
+- M.Eng. in Information Science (Computational Linguistics)
+  - Abstract Meaning Representation
+
+## Area of Interest
+Anything related to natural language semantics!
+
+Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, and etc.
+
+## Skills
+- Programming Language: Python, R
+- Framework: PyTorch
