@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## Academic Background
-- Theoretical Linguistics
-  - Generative Syntax
-  - Generative Lexicon
+- Theoretical Linguistics: Generative Syntax, Generative Lexicon
 
-- Computational Linguistics
-  - Abstract Meaning Representation (AMR)
-  - AMR Parsing
+- Computational Linguistics: AMR Parsing
 
 ## Area of Interest
-Anything related to natural language semantics and its applications!
+- Anything related to natural language semantics!
 
-Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, and etc.
+  Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, and etc.
+
+- And its applications!
 
 ## Skills
 - Programming Language: Python, R
