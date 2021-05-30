@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Academic Background
-- Theoretical Linguistics: Generative Syntax, Generative Lexicon
-
-- Computational Linguistics: AMR Parsing
-
 ## Area of Interest
-- Anything related to natural language semantics!
+- I have a background in Theoretical and Computational Linguistics.
+
+- I am interested in anything related to natural language semantics!
 
   Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, and etc.
 
