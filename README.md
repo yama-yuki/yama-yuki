@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## Academic Background
-- B.A. in English (Theoretical Linguistics)
+- Theoretical Linguistics
   - Generative Syntax
   - Generative Lexicon
 
-- M.Eng. in Information Science (Computational Linguistics)
-  - Abstract Meaning Representation
+- Computational Linguistics
+  - Abstract Meaning Representation (AMR)
+  - AMR Parsing
 
 ## Area of Interest
-Anything related to natural language semantics!
+Anything related to natural language semantics and its applications!
 
 Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, and etc.
 
