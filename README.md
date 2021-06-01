@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Area of Interest
-- I have a background in Theoretical and Computational Linguistics.
+- Natural Language Processing, Computational Linguistics, and Theoretical Linguistics
 
 - I am interested in anything related to natural language semantics:
 
