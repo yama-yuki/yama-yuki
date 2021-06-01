@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - I'm interested in anything related to natural language semantics:
 
-  Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, discourse semantics and etc.
+  Semantic Parsing, Meaning Representation, Lexical Semantics, Syntax-Semantics Interface, Discourse Semantics and etc.
 
 - And its applications!
 
