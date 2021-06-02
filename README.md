@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yuki Yamamoto, 2nd year doctoral student at NAIST NLP Lab.
+I'm Yuki Yamamoto, 2nd year doctoral student at NAIST NLP Lab:deer:
 
 <!--
 **yama-yuki/yama-yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Area of Interest
+##  :point_right: Area of Interest
 - Natural Language Processing, Computational Linguistics, and Theoretical Linguistics
 
 - I'm interested in anything related to natural language semantics:
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 - And its applications!
 
-## Skills
+## ⚡ Skills
 - Programming Language: Python, R
 - Framework: PyTorch
