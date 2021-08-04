@@ -1,3 +1,5 @@
+NOTICE: code/resource for our STARSEM paper will be available soon
+
 ### Hi there 👋
 I'm Yuki Yamamoto, 2nd year doctoral student at NAIST NLP Lab.
 
