@@ -1,7 +1,7 @@
 NOTICE: code/resource for our STARSEM paper will be available soon
 
 ### Hi there 👋
-I'm Yuki Yamamoto, PhD candidate at NAIST NLP Lab.
+I'm Yuki Yamamoto, Doctoral Student at NAIST NLP Lab.
 
 <!--
 **yama-yuki/yama-yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
