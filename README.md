@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 
 ### Now Learning
 <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+### Reach Me via
+[LinkedIn](https://www.linkedin.com/in/yuki-yamamoto/)
