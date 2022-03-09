@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 ### Reach me via
-- Email: yamamoto.yuki.yt0 [-at-] is.naist.jp 
+- [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=flat"/>](https://www.linkedin.com/in/yuki-yamamoto/)
 
-- [LinkedIn](https://www.linkedin.com/in/yuki-yamamoto/)
+- <img alt="LinkedIn" src="https://img.shields.io/badge/-Mail-EEEEEE.svg?logo=Gmail&style=flat"/>: yamamoto.yuki.yt0 [-at-] is.naist.jp
