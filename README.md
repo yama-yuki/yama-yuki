@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 - Natural Language Processing and Theoretical Linguistics
-- Syntactic Parsing, Semantic Parsing, Syntax-Sementic Interface, Discourse Semantics, Lexical Semantics, Graph Theory, etc. 
+- Syntactic Parsing, Semantic Parsing, Syntax-Semantic Interface, Discourse Semantics, Lexical Semantics, Graph Theory, etc. 
 - Applications in Machine Translation, Question Answering, etc.
 
 ### What I Use
