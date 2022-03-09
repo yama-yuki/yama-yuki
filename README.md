@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### Now Learning
 <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 -->
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=Python&style=flat&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/-R-276DC3.svg?logo=R&style=flat"/> <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C.svg?logo=Pytorch&style=flat&logoColor=white"/>
+[<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=Python&style=flat&logoColor=white"/>](https://www.python.org/) [<img alt="R" src="https://img.shields.io/badge/-R-276DC3.svg?logo=R&style=flat"/>](https://www.r-project.org/) [<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C.svg?logo=Pytorch&style=flat&logoColor=white"/>](https://pytorch.org/)
 ### Learning
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=Cplusplus&style=flat&logoColor=white"/> <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=Scala&style=flat&logoColor=white"/>
+[<img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=Cplusplus&style=flat&logoColor=white"/>](https://www.cplusplus.com/) [<img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=Scala&style=flat&logoColor=white"/>](https://www.scala-lang.org/)
 
 ### Reach me via
 [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=flat"/>](https://www.linkedin.com/in/yuki-yamamoto/)
