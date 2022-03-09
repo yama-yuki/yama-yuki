@@ -1,4 +1,4 @@
-NOTICE: refactored code for our STARSEM paper will be available soon
+Refactored code for our STARSEM paper will be available soon
 
 ### Hi there 👋
 I'm Yuki Yamamoto, a Doctoral Student at NAIST NLP Lab.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Area of Interest
+<!--
 - Natural Language Processing, Computational Linguistics, and Theoretical Linguistics
 
 - I'm interested in anything related to natural language semantics:
@@ -26,6 +27,11 @@ Here are some ideas to get you started:
   Semantic Parsing, Meaning Representation, Lexical Semantics, Discourse Semantics, Syntax-Semantics Interface and etc.
 
 - And its applications in MT and etc.
+-->
+
+- Natural Language Processing and Theoretical Linguistics
+- Syntactic Parsing, Semantic Parsing, Syntax-Sementic Interface, Discourse Semantics, Lexical Semantics, Graph Theory, etc. 
+- Applications in Machine Translation, Question Answering, etc.
 
 ### What I Use
 <!--
