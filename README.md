@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 - Email: yamamoto.yuki.yt0 [-at-] is.naist.jp 
 
 - [LinkedIn](https://www.linkedin.com/in/yuki-yamamoto/)
+
+- [Resume](https://www.resume.id/yama_yuki)
