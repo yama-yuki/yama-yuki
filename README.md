@@ -1,5 +1,3 @@
-Refactored code for our STARSEM paper will be available soon
-
 ### Hi there 👋
 I'm Yuki Yamamoto, a Doctoral Student at NAIST NLP Lab.
 
