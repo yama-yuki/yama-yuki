@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yuki Yamamoto, a Doctoral Student at NAIST NLP Lab.
+I'm Yuki Yamamoto, PhD Candidate at NAIST NLP Lab.
 
 <!--
 **yama-yuki/yama-yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
